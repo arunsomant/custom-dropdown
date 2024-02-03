@@ -449,7 +449,7 @@ class _CustomDropdownState<T> extends State<CustomDropdown<T>> {
             border: InputBorder.none,
             contentPadding: EdgeInsets.zero,
             filled:true,
-            fillColor: Color(0xFFF6F6F6)
+            fillColor: Color(0xFF151515)
           ),
           child: _OverlayBuilder(
             overlay: (size, hideCallback) {
